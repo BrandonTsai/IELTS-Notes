@@ -143,6 +143,7 @@ Conclution
 -  This essay has discussed ....
 - Your opinion. 
 	- End with ``Conditional Sentense`` / ``Question Sentense``
+	- after all, how can we ... if we do not ...
 
 
 Steps/Time Management
@@ -182,5 +183,5 @@ Other Reference
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx-JcXsbUqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTYxNDU5M119
+eyJoaXN0b3J5IjpbLTE4NDMwNzA3MDgsMTQ2MTYxNDU5M119
 -->
