@@ -41,6 +41,15 @@ Common Tips
 	-  Listening Podcast and take notes at the same time
 
 
+Computer-based tips
+-------------------------
+
+在配對的問題例如每個人負責的工作項目，先在聽的時候，把每個人負責的工作
+
+地圖的問題，
+
+
+
 Question Types
 =============
 
@@ -79,5 +88,6 @@ Question Types
 
 -   1 speaker, academic lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc0MjUwNTldfQ==
+eyJoaXN0b3J5IjpbLTIxMzA4ODQ3MTcsLTEyMzc0MjUwNTldfQ
+==
 -->
