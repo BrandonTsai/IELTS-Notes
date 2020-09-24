@@ -44,11 +44,9 @@ Common Tips
 Computer-based tips
 -------------------------
 
-在配對的問題例如每個人負責的工作項目，先在聽的時候，把每個人負責的工作
+在配對的問題例如每個人負責的工作項目，先在聽的時候，把每個人負責的工作的Keyword記在紙上，然後最後再配對找答案．
 
-地圖的問題，
-
-
+地圖的問題，一樣，先把每個地點寫在紙上，最後再填進去．
 
 Question Types
 =============
@@ -88,6 +86,6 @@ Question Types
 
 -   1 speaker, academic lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA4ODQ3MTcsLTEyMzc0MjUwNTldfQ
+eyJoaXN0b3J5IjpbLTE3OTU5MTE4MTgsLTEyMzc0MjUwNTldfQ
 ==
 -->
