@@ -1,13 +1,12 @@
 Notes
 =====
+
 Useful Opening:
 - Considering that/It is known that **Education is fundamental to the progress of an individual/a nation.**
 - It is known that **the role of education in childhood determines much of their lifelong development and personality.**
 
 
-
-
-Displine & Corporal Punishment
+Discipline & Corporal Punishment
 ----------------------------
 Vocabularies:
 <iframe src="https://quizlet.com/523123238/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
@@ -39,14 +38,14 @@ Sex differences & gender imbalance in education
 Vocabulary
 
 - more than = outweigh
-- balance (v.)= adjust = offset 
+- balance (v.)= adjust = offset
   - != imbalance
 - gender inequality
 
 Causes:
 - girls are discouraged for higher studies
 	- to do perform household chores.
-- **stereotypes** 
+- **stereotypes**
 	- male have more talent on math and science while woman is good at art and communication.
 
 Possible Solution:
@@ -71,6 +70,26 @@ Tution Fee & Student Loan
 state school or private school
 ------------------------------------
 
+
+
+Learn Foreign Language at Primary school (C9-1)
+-----------------------------------------------
+
+
+<iframe src="https://quizlet.com/557718553/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+
+
+Benefit:
+
+- Young children pick up languages much more easily than adolescents.
+  * because brains are still programmed to acquired their mother tongue.
+- Curriculum is more flexible for more frequent, shorter sessions and for play-centre approach.
+  * maintain enthusiasm.
+
+Harm:
+
+- The shortage of language teachers in primary school.
+- secondary school could be faced a great variety of levels in different languages.
 
 Questions
 =========

@@ -35,8 +35,7 @@ satisfaction
 devote
 
 
-``Interview`` 
--> First impression
+Interview -> First impression
 
 
 
@@ -87,3 +86,4 @@ Advanced:
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY3MjMyMDY4M119
 -->
+

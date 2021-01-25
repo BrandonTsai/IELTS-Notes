@@ -1,3 +1,6 @@
+Vocabularies
+=============
+
 Notes
 =====
 
@@ -9,13 +12,15 @@ Notes
 | Where |  |
 | Why 	|  |
 
-Questions
-========
 
-**Part 1**
+
+Part 1
+=========
 <iframe src="https://quizlet.com/521401176/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
-**Part 2**
+Part 2
+========
+
 > Describe an interesting journey you have been on. You should say:
 > 
 >   -   where you went
@@ -30,7 +35,8 @@ P:
 P:
 F:
 
-**Part 3**
+Part 3
+======
 
 <iframe src="https://quizlet.com/521401449/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 

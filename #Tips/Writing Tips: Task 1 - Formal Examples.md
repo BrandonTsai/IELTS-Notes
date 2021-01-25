@@ -2,7 +2,7 @@
 Proper Tone
 ==========
 
-- Write longer sentence.
+- Write longer sentences.
 - No Contractions
 - (No "Be" (is/am/are) Verb in Introduction.)
 - (Limited range of emotions)
@@ -13,7 +13,7 @@ Letter Structure
 
 
 - Dear Mr. Smith  | ``Dear Sir or Madam,``
-- Opening: ``1 Compound Sentence`` to show this letter's perpose  
+- Opening: ``1 Compound Sentence`` to show this letter's purpose.
 - `2~3 sentences` for each Discuss Point. 
 - Closing:
 - `Yours sincerely,` | `Yours faithfully,`
