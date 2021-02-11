@@ -1,21 +1,19 @@
+# Table of contents
 
-Conversation Practice
-========================
-
-- [Furniture and Decoration](10_Speaking/01.1_Furniture_Decoration.md)
-- [Hoursework](10_Speaking/01.2_housework.md)
-- [Home](10_Speaking/01.3_Home.md)
-- [Festivals](10_Speaking/04.3_festivals.md)
-- [Weather](10_Speaking/08.1_weather.md)
-- Food
-- Education
-- Work
-- TV shows or Dramas
-- Shopping
-- Sport/Exercise
-- Music
-- Famous People
-- Wedding Ceremony
-- Animals
-
+* [Introduction](README.md)
+* [Furniture and Decoration](01.1_furniture_decoration.md)
+* [Hoursework](01.2_housework.md)
+* [Home](01.3_home.md)
+* [Festivals](04.3_festivals.md)
+* [Weather](08.1_weather.md)
+* [Food](food.md)
+* [Education](education.md)
+* [Work](work.md)
+* [TV shows or Dramas](tv-shows-or-dramas.md)
+* [Shopping](shopping.md)
+* [Sport/Exercise](sport-exercise.md)
+* [Music](music.md)
+* [Famous People](famous-people.md)
+* [Wedding Ceremony](wedding-ceremony.md)
+* [Animals](animals.md)
 
