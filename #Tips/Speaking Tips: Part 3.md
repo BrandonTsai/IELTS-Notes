@@ -52,17 +52,17 @@ Notes
 =====
 
 **Compare**
-DO NOT just say I think B is much .. than A
-- ``A is ... but B is much more ...``
+DO NOT just say I think B is more ... than A
+- ``A is ... but B is more ...``
 	- being employed *is* stable and easier, *but it is much more* flexible and have more chance to achieve work-life balance as a self-employed worker.
-- ``Despite the fact that A is ..., I prefer B because .../B is much nore... ``
+- ``Despite the fact that A is ..., I prefer B because .../B is more... ``
 
 **Agree/Disagree**
 it is fine to speculate/guess
 - ``I suppose it might be that ...``
 - ``Well, maybe the reason is ...``
 - ``It could be that ...``
-- ``I am an expert, but I think people should not do ... because it might ...``
+- ``I am not an expert, but I think people should not do ... because it might ...``
 
 
 **Recently Changed!!**

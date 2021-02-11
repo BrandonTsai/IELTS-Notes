@@ -13,12 +13,13 @@ Tips
 
 - **Do NOT** repeat the vocabulary in the questions. 
 	- Use ``Synonyms`` and ``Antonyms``!
-- Notice the Question Type: Who, When, Where, Which, Do you agree/disagree ...etc
-- Extend the answer
 - Show the ability of phrases/collocations, but not too many. one or two in each part.
 - Practice the usage and pronounce of **past tense**.
-- Use Linking words: https://www.dlsweb.rmit.edu.au/lsu/content/4_WritingSkills/writing_tuts/linking_LL/linking3.html
-
+- Practice the usage of Linking words: 
+  - https://www.dlsweb.rmit.edu.au/lsu/content/4_WritingSkills/writing_tuts/linking_LL/linking3.html
+  - Practice with these Linking words in front of you.
+- Notice the Question Type: Who, When, Where, Which, Do you agree/disagree ...etc
+- Extend the answer
 
 ## Reference
 

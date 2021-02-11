@@ -2,18 +2,21 @@
 Vocabularies
 ===========
 
-Accommodation Type:
+Home & Accommodation Type
 
 <iframe src="https://quizlet.com/508001223/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
-Furniture and Facility:
+
+Part of the house
+
+<iframe src="https://quizlet.com/566195172/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+
+
+Furniture and Decoration:
 
 <iframe src="https://quizlet.com/507994966/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
-Notes
-=====
-**"I have been living in London for five years"** tells us that you are still living there. 
-**"I have lived in London for five years"** can mean the same or it can also mean that you are not currently living in London
+
 
 
 
@@ -46,8 +49,8 @@ Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MtZJR5ias-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaK-VDFqgHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmH722JfWVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MzEwNTY4XX0=
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ArTA9OW-srQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

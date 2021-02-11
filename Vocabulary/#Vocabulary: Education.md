@@ -1,11 +1,10 @@
 
 Vocabularies
 ==========
-> - Review all words
-> - Use Quizlet "learn" feature to learn vocabularies
+
 
 teach **taught** taught 
-schools should also be the avenue to prepare us to enter into another chapter.
+Schools should also be the avenue to prepare us to enter into another chapter.
 
 Subject:
 <iframe src="https://quizlet.com/491173683/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
@@ -25,15 +24,10 @@ General:
 Displine & Punishment
 <iframe src="https://quizlet.com/523123238/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
-Synomym
-=========
-challenging
-
 Collocations
 ==========
 
 <iframe src="https://quizlet.com/522416291/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
-
 
 
 Podcast:
